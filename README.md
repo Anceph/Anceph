@@ -1,3 +1,3 @@
-![Banner Image](https://github.com/Anceph/Anceph/blob/main/header.png)
+![Banner Image](https://raw.githubusercontent.com/Anceph/Anceph/main/header.png)
 
-# Hello! <img src="https://raw.githubusercontent.com/Anceph/Anceph/blob/main/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/Anceph/Anceph/main/wave.gif" width="30px">
