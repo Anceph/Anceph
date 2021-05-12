@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/Anceph/<OWNER>/main/header.png "Header")](https://anceph.com/)
+![Banner Image](https://github.com/Anceph/Anceph/blob/main/Banner.png)
