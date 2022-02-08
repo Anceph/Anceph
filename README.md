@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/Anceph/Anceph/main/wave.gif" width="30px">
-My name is Yüce Hasan! I'm trying Web & Game & Software development. I'm from Turkey, I was born in Izmir but I moved to Ankara, that's where I live right now.
+egk
 
 ## 🔧 Technologies & Tools
 
