@@ -1,11 +1,10 @@
-# Hello! <img src="https://raw.githubusercontent.com/Anceph/Anceph/main/wave.gif" width="30px">
-egk
+<h1 align="center">Hi 👋, I'm Anceph</h1>
+<h3 align="center">doing stuff</h3>
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on [SBots](https://github.com/Anceph/sbots)
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+- 🌱 I’m currently learning **C**
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anceph&show_icons=true&locale=en&layout=compact" alt="anceph" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anceph&show_icons=true&locale=en" alt="anceph" /></p>
