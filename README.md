@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Anceph</h1>
-<h3 align="center">doing stuff</h3>
+<h1 align="center">hey</h3>
